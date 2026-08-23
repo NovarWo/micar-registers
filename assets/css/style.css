@@ -98,6 +98,18 @@ h1, h2, h3 { color: var(--text); line-height: 1.25; margin: 0 0 8px; }
 
 .wrap { max-width: 1180px; margin: 0 auto; padding: 0 24px 64px; }
 
+/* register.html only (all 5 register types share this one template, so this
+   applies uniformly to CASPs/ART/EMT/Whitepapers/Non-compliant alike - see
+   the "wrap wrap--register" class on register.html's own .wrap div). Wider
+   than the default 1180px because a 7-column register table (CASPs/ART/EMT's
+   widest: name, LEI, country, supervisor, a 4th data column, an icon/count
+   column, status) doesn't fit at 1180px without .table-wrap's horizontal
+   scrollbar kicking in - measured live against the actual CASPs data
+   (currently the widest table) needing ~1325px of table width, so 1400px
+   leaves a little headroom for future columns/longer values too. Still
+   centered via the same margin: 0 auto as the base .wrap. */
+.wrap--register { max-width: 1400px; }
+
 /* Top nav */
 .topnav {
   background: var(--surface-2);
