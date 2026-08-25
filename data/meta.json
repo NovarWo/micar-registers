@@ -1,11 +1,13 @@
 {
-  "last_checked": "2026-08-25T09:20:45+00:00",
+  "last_checked": "2026-08-25T10:15:27+00:00",
   "record_counts": {
     "whitepapers": 609,
     "art": 0,
     "emt": 23,
-    "casps": 332,
     "non_compliant": 165
   },
-  "last_change_at": "2026-08-21T14:20:14+00:00"
+  "last_change_at": "2026-08-21T14:20:14+00:00",
+  "last_errors": {
+    "casps": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  }
 }
