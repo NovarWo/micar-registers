@@ -15051,5 +15051,15 @@
       }
     ],
     "timestamp": "2026-08-21T14:20:14+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "60b81d9957bb0717",
+    "name": "OSL EU GmbH",
+    "detail": [
+      "lei: 8945001TKX2A5OJMNR45 → 8945001TKX2A5OJMNR95"
+    ],
+    "timestamp": "2026-08-26T08:25:11+00:00"
   }
 ]
