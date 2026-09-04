@@ -104,11 +104,18 @@ h1, h2, h3 { color: var(--text); line-height: 1.25; margin: 0 0 8px; }
    than the default 1180px because a 7-column register table (CASPs/ART/EMT's
    widest: name, LEI, country, supervisor, a 4th data column, an icon/count
    column, status) doesn't fit at 1180px without .table-wrap's horizontal
-   scrollbar kicking in - measured live against the actual CASPs data
-   (currently the widest table) needing ~1325px of table width, so 1400px
-   leaves a little headroom for future columns/longer values too. Still
-   centered via the same margin: 0 auto as the base .wrap. */
-.wrap--register { max-width: 1400px; }
+   scrollbar kicking in.
+   The earlier 1400px value still left a horizontal scrollbar on wide windows:
+   it was sized off the table's own ~1360px content width but forgot that
+   max-width applies to .wrap's border-box, and .wrap has 24px of padding on
+   each side (see the base .wrap rule above) plus .table-wrap's 1px border on
+   each side - so only ~1400-48-2 = 1350px was actually left for the table,
+   ~10px short of what CASPs (measured live as the widest register, 1360px of
+   real column content at time of writing) needs. 1500px leaves the table
+   ~90px of headroom inside .wrap's padded content box, comfortably covering
+   both that shortfall and future columns/longer values. Still centered via
+   the same margin: 0 auto as the base .wrap. */
+.wrap--register { max-width: 1500px; }
 
 /* Top nav */
 .topnav {
