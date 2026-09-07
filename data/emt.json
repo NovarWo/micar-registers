@@ -1,6 +1,6 @@
 {
   "register": "emt",
-  "generated_at": "2026-09-07T13:03:17+00:00",
+  "generated_at": "2026-09-07T18:25:30+00:00",
   "records": [
     {
       "id": "0673627ac8c1d954",
@@ -481,6 +481,22 @@
           "dti_ffg": null,
           "comments": null,
           "last_update": "18/12/2025"
+        },
+        {
+          "url": "https://www.bettrsettlementtoken.com/policy",
+          "start_date": "22/09/2026",
+          "dti": "n/a",
+          "dti_ffg": "n/a",
+          "comments": null,
+          "last_update": "28/08/2026"
+        },
+        {
+          "url": "https://www.bettrsettlementtoken.com/policy",
+          "start_date": "22/09/2026",
+          "dti": "n/a",
+          "dti_ffg": "n/a",
+          "comments": null,
+          "last_update": "28/08/2026"
         }
       ],
       "institution_type": "Electronic money institution",
