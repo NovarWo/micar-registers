@@ -15920,5 +15920,2425 @@
       }
     ],
     "timestamp": "2026-09-07T18:25:30+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "256e5b0e4df585f6",
+    "name": "CAPITAL VAULT LTD",
+    "detail": [
+      {
+        "kind": "service_added",
+        "code": "j"
+      }
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "9b55ba22c47dae72",
+    "name": "S.K. DASK KRYPTO LTD",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "e",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "g",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "ee7779d8025fed51",
+    "name": "TRIA BRIDGE LIMITED (ex Tokenomica Bridge Ltd)",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "0590dbff2e5d6cae",
+    "name": "Brilliantscope Trading Limited",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "e",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "f",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "g",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "d1f22737bda49de5",
+    "name": "SG Digital Assets Limited",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "e",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "g",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "285cab61991b3d59",
+    "name": "MP Developers s.r.o.",
+    "detail": [
+      {
+        "kind": "service_added",
+        "code": "j"
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IT",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "a",
+        "countries": [
+          "CZ"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "b",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IT",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "b",
+        "countries": [
+          "CZ"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IT",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "c",
+        "countries": [
+          "CZ"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IT",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "d",
+        "countries": [
+          "CZ"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "e",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IT",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "e",
+        "countries": [
+          "CZ"
+        ]
+      },
+      "address: Køižíkova 710/30, 186 00 Prague → Křižíkova 710/30, 186 00 Prague",
+      "website: www.anycoin.cz → www.anycoin.cz;  www.dase.com"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "e692e63b6b8d11d7",
+    "name": "ILAVO GROUP a.s.",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "d9724a33ff41977c",
+    "name": "GG Digital, a.s.",
+    "detail": [
+      "address: Wuchterlova 1607/12, 160 00 Praha6 → Wuchterlova 1607/12, 160 00 Praha"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "fdfee33c060a32ca",
+    "name": "Altlift s.r.o.",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "d5b223adcc1a4866",
+    "name": "Deutsche WertpapierService Bank AG",
+    "detail": [
+      "address: Wildunger Straße 14, 60487 Frankfurt am Main → Kölner Straße 5, 65760 Eschborn"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "7262428a6068fbc9",
+    "name": "Raiffeisenbank Schwaben Mitte eG",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "caa45c0fa0accede",
+    "name": "VR Bank Ihre Heimatbank eG",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "63019456a183ed49",
+    "name": "Frankfurter Volksbank Rhein/Main eG",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "ad9a29bc24b2cf93",
+    "name": "Raiffeisenbank Isar-Loisachtal eG",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "e768d33d95ac6875",
+    "name": "Volksbank Alb eG",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "83d64a5a68151566",
+    "name": "DEBLOCK SAS",
+    "detail": [
+      "address: 1 cours du Havre - 75008 Paris → 1 cours du Havre - 75008 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "761dc27eb47e2827",
+    "name": "GOin SAS",
+    "detail": [
+      "address: 29 rue Marbeuf - 75008 Paris → 29 rue Marbeuf - 75008 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "0734869a3c375d29",
+    "name": "CACEIS BANK",
+    "detail": [
+      "address: 89-91 rue Gabriel Péri - 92120 Montrouge → 89-91 rue Gabriel Péri - 92120 Montrouge, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "a19db4d38a3ba834",
+    "name": "BITSTACK DIGITAL ASSETS SAS",
+    "detail": [
+      "address: Pépinière Michel Caucik - 100 Impasse des Houillères - Le Pontet - 13590 Meyreuil → Pépinière Michel Caucik - 100 Impasse des Houillères - Le Pontet - 13590 Meyreuil, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "7e60f4fd86b96c85",
+    "name": "METAL GEAR SAS",
+    "detail": [
+      "address: 64 rue des Archives - 75003 Paris → 64 rue des Archives - 75003 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "e39d5c815a836ec9",
+    "name": "COINSHARES ASSET MANAGEMENT",
+    "detail": [
+      "address: 17 rue de la Banque - 75002 PARIS → 17 rue de la Banque - 75002 PARIS, France",
+      "platform website: onbekend → https://coinshares.com/"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "7f1deadb3b394ef6",
+    "name": "FINCTEK UE SAS",
+    "detail": [
+      "address: 24 rue d'Aumale - 75009 Paris → 24 rue d'Aumale - 75009 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "6634e135a1a5aa02",
+    "name": "RELAI EU SASU",
+    "detail": [
+      "address: 61 rue de Lyon → 61 rue de Lyon - 75012 Paris, France",
+      "website: 75012 Paris → https://relai.app/"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "a3fd7add68fb25b7",
+    "name": "SOCIETE GENERALE - FORGE",
+    "detail": [
+      {
+        "kind": "service_added",
+        "code": "e"
+      },
+      "address: 17 COURS VALMY → 17 COURS VALMY - 92800 PUTEAUX, France",
+      "website: 92800 PUTEAUX → https://www.sgforge.com/"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "e5470d042ac6999a",
+    "name": "BANQUE DELUBAC ET CIE",
+    "detail": [
+      "address: 16 PLACE SALEON-TERRAS → 16 PLACE SALEON-TERRAS - 07160 LE CHEYLARD, France",
+      "website: 07160 LE CHEYLARD → https://www.delubac.com/"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "a063fe75fa732105",
+    "name": "COMETH SAS",
+    "detail": [
+      "address: 61-63 RUE DES BELLES FEUILLES - 75016 PARIS → 61-63 RUE DES BELLES FEUILLES - 75016 PARIS, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "f7c0283253787412",
+    "name": "FIPTO PI SAS",
+    "detail": [
+      "address: 65 RUE DE LA CROIX 92000 - NANTERRE → 65 RUE DE LA CROIX 92000 - NANTERRE, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "57a2bbeb418be326",
+    "name": "HEXARQ SAS",
+    "detail": [
+      "address: 7 promenade Germaine Sablon - 75013 Paris → 7 promenade Germaine Sablon - 75013 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "4306f45bf9da57b2",
+    "name": "BLOCKNODES SAS",
+    "detail": [
+      "address: 29 RUE BLANCHE - 75009 PARIS → 29 RUE BLANCHE - 75009 PARIS, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "af3e2696483c29fe",
+    "name": "CIRCLE INTERNET FINANCIAL EUROPE SAS",
+    "detail": [
+      "address: 4 RUE DE MARIVAUX - 75002 Paris → 4 RUE DE MARIVAUX - 75002 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "39e08360d18af95e",
+    "name": "DESKOIN SAS",
+    "detail": [
+      "address: 7/9 et 11 Boulevard de la Solidarité - 57070 Metz → 7/9 et 11 Boulevard de la Solidarité - 57070 Metz, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "686886ab27de5fcc",
+    "name": "COINHOUSE SAS",
+    "detail": [
+      "address: 14 avenue de l’Opéra - 75001 Paris → 14 avenue de l’Opéra - 75001 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "bb7b73dacc791469",
+    "name": "QWARKS SAS",
+    "detail": [
+      "address: 92 Cours Lafayette - 69003 Lyon → 92 Cours Lafayette - 69003 Lyon, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "4b56037f323f4bd7",
+    "name": "PAYTOP SAS",
+    "detail": [
+      "address: 1 rue de Stockholm - 75008 Paris → 1 rue de Stockholm - 75008 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "5919ed516939d765",
+    "name": "RUFIJI CAPITAL SAS",
+    "detail": [
+      "address: 66 AVENUE DES CHAMPS ELYSEES - 75008 PARIS → 66 AVENUE DES CHAMPS ELYSEES - 75008 PARIS, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "374f889bdc2a220d",
+    "name": "KEYROCK FR SAS",
+    "detail": [
+      "address: 229 rue Saint-Honoré - 75001 Paris → 229 rue Saint-Honoré - 75001 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "544721f571b3756d",
+    "name": "RCUBE ASSET MANAGEMENT",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "ff9d6840d2e984c5",
+    "name": "LEONOD SARL",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "HU"
+        ]
+      },
+      "commercial name: LEONOD → BULL BITCOIN"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "091643a8ba0b5785",
+    "name": "ALPHACAP DIGITAL ASSETS SAS",
+    "detail": [
+      "address: 18 rue Jean GIRAUDOUX - 75116 Paris → 18 rue Jean GIRAUDOUX - 75116 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "1c409b077e680754",
+    "name": "FLOWDESK EUROPE SAS",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "GR"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "a",
+        "countries": [
+          "HR"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "GR"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "c",
+        "countries": [
+          "HR"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "GR"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "d",
+        "countries": [
+          "HR"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "e",
+        "countries": [
+          "GR"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "e",
+        "countries": [
+          "HR"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "GR"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "j",
+        "countries": [
+          "HR"
+        ]
+      },
+      "address: 231 rue Saint-Honoré - 75001 Paris → 231 rue Saint-Honoré - 75001 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "f7bfa74a2c5ac9ca",
+    "name": "ICEBLOCK SAS",
+    "detail": [
+      "address: 128 rue de la Boétie - 75008 Paris → 128 rue de la Boétie - 75008 Paris, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "69b07eea9b588331",
+    "name": "MEREAU FINANCE SAS",
+    "detail": [
+      "address: 35 Rue Jean Jaurès - 92800 Puteaux → 35 Rue Jean Jaurès - 92800 Puteaux, France"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "f0a2bba0d2b29992",
+    "name": "CHECKSIG S.R.L. SOCIETÀ BENEFIT",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "9b5c5f252d50d5cd",
+    "name": "OLLIV ITALIA S.R.L.",
+    "detail": [
+      "address: Via Lorenzo Mascheroni, 19, MILANO, 20145 → Via Giuseppe Marcora, 11, MILANO, 20121"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "3379a98216ce3391",
+    "name": "Bitcoin Suisse (Europe) AG",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "IS"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "IS"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "IS"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "e",
+        "countries": [
+          "IS"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "g",
+        "countries": [
+          "IS"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "IS"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "3e2c55ef4bcb115c",
+    "name": "Paymonade AG",
+    "detail": [
+      "name: Damoon Technology (Europe) AG → Paymonade AG"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "412e59af91ad9d15",
+    "name": "OKX Europe Limited",
+    "detail": [
+      "address: Piazzetta Business Plaza, Office Number 4, Floor 2,Triq Ghar il-Lembi,Sliema, SLM 1562,Malta → Piazzetta Business Plaza, Office Number 4, Floor 2,\nTriq Ghar il-Lembi,\nSliema, SLM 1562,\nMalta"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "10cf51a46aef31f1",
+    "name": "BP23 CA Limited",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "MT"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "MT"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "MT"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "e",
+        "countries": [
+          "MT"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "g",
+        "countries": [
+          "MT"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "MT"
+        ]
+      },
+      "address: 66, Apt 5, Old Theatre Street, Valletta, Malta → 66, Apt 5, Old Theatre Street, Valletta, VLT 1427, Malta",
+      "platform website: n/a → onbekend"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "2f644df3baf54191",
+    "name": "Foris DAX MT Limited",
+    "detail": [
+      "address: Level 7, Spinola Park, Triq Mikiel Ang Borg, St Julians, Malta → Level 7, Spinola Park, Triq Mikiel Ang Borg, San Giljan, SPK 1000, Malta",
+      "platform website: n/a → onbekend"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "e1d5033ae24120c2",
+    "name": "Altarius Asset Management Limited",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "g",
+        "countries": [
+          "MT"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "g",
+        "countries": [
+          "DE",
+          "LU"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "i",
+        "countries": [
+          "MT"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "i",
+        "countries": [
+          "DE",
+          "LU"
+        ]
+      },
+      "platform website: n/a → onbekend"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "c80c0073f7e9025e",
+    "name": "Gemini Intergalactic EU Ltd",
+    "detail": [
+      "address: Gemini Intergalactic EU Limited, 171 Triq il-Fran, Valletta, VLT1455, Malta → Gemini Intergalactic EU Limited, Office C, Q2, Tigne Point, Sliema, SLM3190, Malta",
+      "platform website: n/a → onbekend"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "d4234108eb590b62",
+    "name": "Blockchain.com Operations (Malta) Limited",
+    "detail": [
+      "name: Blue Cube (Malta) Limited → Blockchain.com Operations (Malta) Limited"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "3b4ffa8924dd7087",
+    "name": "Payhound Limited",
+    "detail": [
+      "address: Level 0A, Centris Business Gateway II,Triq is-Salib tal-Imriehel, Zone 3, Central Business District,Birkirkara, CBD 3020,Malta → Level 0A, Centris Business Gateway II,\nTriq is-Salib tal-Imriehel, Zone 3, Central Business District,\nBirkirkara, CBD 3020,\nMalta"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "ca1adadad7206d4d",
+    "name": "Stable Mint Ltd.",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "a",
+        "countries": [
+          "MT"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "j",
+        "countries": [
+          "MT"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "9b960f1ac5a6e163",
+    "name": "Zap (Strike) Europe Limited",
+    "detail": [
+      "address: 171, \nTriq il-Fran, \nValletta, \nVLT1455 → 171, \nTriq il-Fran, \nValletta, \nVLT1455,\nMalta"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "7949e180d2f1303e",
+    "name": "FalconX Limited",
+    "detail": [
+      "address: Trident Park, Notabilie Gardens, Nos 6, Level 4, \nMdina Road, Zone 2, \nCentral Business District, \nBirkirkara, Malta, \nCBD2010 → Trident Park, Notabile Gardens, Nos. 6, Level 4, \nMdina Road, Zone 2, \nCentral Business District, \nBirkirkara, CBD 2010, \nMalta"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "4fb17f535653453e",
+    "name": "CF Technologies Ltd",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "a",
+        "countries": [
+          "MT"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "c",
+        "countries": [
+          "MT"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "d",
+        "countries": [
+          "MT"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "j",
+        "countries": [
+          "MT"
+        ]
+      },
+      "address: Progetta House Level 0, \n62-64 Triq it-Torri, \nBirkirkara, BKR4011, \nMalta → Progetta House Level 0, \n62-64 Triq it-Torri, \nBirkirkara, BKR 4011, \nMalta"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "1dbcf220fe63a9f4",
+    "name": "AK JENSEN NORWAY AS",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "518a246c31abe523",
+    "name": "TÝR MARKETS AS",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "SE"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "SE"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "SE"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "SE"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "ac80c53a16fe1f08",
+    "name": "FIRI AS",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "b",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "e",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "PL",
+          "PT",
+          "RO",
+          "SI",
+          "SK"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "f46db552a83eedbc",
+    "name": "K33 MARKETS as",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "DK",
+          "FI",
+          "GR",
+          "SE"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "e",
+        "countries": [
+          "DK",
+          "FI",
+          "GR",
+          "SE"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "DK",
+          "FI",
+          "GR",
+          "SE"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "e53a0b7c277c6a56",
+    "name": "BARE BITCOIN AS",
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "767e0e3f12cef10a",
+    "name": "NORWEGIAN BLOCK EXCHANGE AS",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "NO"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "b",
+        "countries": [
+          "NO"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "NO"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "NO"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "e",
+        "countries": [
+          "NO"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "g",
+        "countries": [
+          "NO"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "NO"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "7d5ad2d1998d546d",
+    "name": "ILIRIKA borzno posredniška hiša d.d.",
+    "detail": [
+      "authorisation date: 20/09/2025 → 04/10/2025"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "f385be960435bf48",
+    "name": "INCREMENTUM poslovne storitve d.o.o.",
+    "detail": [
+      "name: INCREMENTUM družba za izvajanje storitev v zvezi s kriptosredstvi d.o.o. → INCREMENTUM poslovne storitve d.o.o.",
+      "authorisation date: 06/11/2025 → 22/11/2025"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "d52f5dcddfdc8a3d",
+    "name": "Orcabay finančne storitve d.o.o.",
+    "detail": [
+      "authorisation date: 10/11/2025 → 27/11/2025"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "cac740515e580299",
+    "name": "GateHub Exchange družba za izvajanje storitev v zvezi s kriptosredstvi d.o.o.",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "EE",
+          "EL",
+          "ES",
+          "FI",
+          "FR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      "competent authority: Netherlands Authority for the Financial Markets (AFM) → Securities Market Agency (ATVP)",
+      "name: GateHub Exchange, družba za izvajanje storitev v zvezi s kriptosredstvi, d.o.o. → GateHub Exchange družba za izvajanje storitev v zvezi s kriptosredstvi d.o.o.",
+      "head office country: onbekend → SI",
+      "address: Zaloška cesta 1, 1000 Ljubljana, Slovenia → Zaloška cesta 1 1000 Ljubljana Slovenia",
+      "authorisation date: onbekend → 24/08/2026"
+    ],
+    "timestamp": "2026-09-07T21:47:50+00:00"
   }
 ]
