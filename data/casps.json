@@ -1,6 +1,6 @@
 {
   "register": "casps",
-  "generated_at": "2026-09-07T06:39:08+00:00",
+  "generated_at": "2026-09-07T13:03:17+00:00",
   "records": [
     {
       "id": "67737a1e35f92605",
@@ -34094,6 +34094,49 @@
       "eu_passport_raw": "Incoming from LT:\nStarting date of the provision of the crypto-asset services: 16-12-2025",
       "equivalent_services": null,
       "id": "ed909cf6fe4eff8b",
+      "source": "afm"
+    },
+    {
+      "competent_authority": "Netherlands Authority for the Financial Markets (AFM)",
+      "home_member_state": "SI",
+      "name": "GateHub Exchange, družba za izvajanje storitev v zvezi s kriptosredstvi, d.o.o.",
+      "lei": "485100FKB79GMCXY4P55",
+      "head_office_country": null,
+      "commercial_name": "GateHub Exchange",
+      "address": "Zaloška cesta 1, 1000 Ljubljana, Slovenia",
+      "website": "https://www.gatehub.net/",
+      "platform_website": null,
+      "authorisation_date": null,
+      "withdrawal_date": null,
+      "status": "active",
+      "services": [
+        {
+          "service": "a. providing custody and administration of crypto-assets on behalf of clients",
+          "countries": []
+        },
+        {
+          "service": "c. exchange of crypto-assets for funds",
+          "countries": []
+        },
+        {
+          "service": "d. exchange of crypto-assets for other crypto-assets",
+          "countries": []
+        },
+        {
+          "service": "j. providing transfer services for crypto-assets on behalf of clients.",
+          "countries": []
+        }
+      ],
+      "authorisation_number": null,
+      "authorisation_type": "cross_border",
+      "suspension_periods": null,
+      "eu_passport_direction": "incoming",
+      "eu_passport_countries": [
+        "SI"
+      ],
+      "eu_passport_raw": "Incoming from SI:\nStarting date of the provision of the crypto-assets services: 24-08-2026",
+      "equivalent_services": null,
+      "id": "cac740515e580299",
       "source": "afm"
     }
   ]

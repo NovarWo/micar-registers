@@ -15061,5 +15061,12 @@
       "lei: 8945001TKX2A5OJMNR45 → 8945001TKX2A5OJMNR95"
     ],
     "timestamp": "2026-08-26T08:25:11+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "cac740515e580299",
+    "name": "GateHub Exchange, družba za izvajanje storitev v zvezi s kriptosredstvi, d.o.o.",
+    "timestamp": "2026-09-07T13:03:17+00:00"
   }
 ]
