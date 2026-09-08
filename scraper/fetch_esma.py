@@ -920,6 +920,11 @@ def format_change_line_nl(line: dict | str) -> str:
     kind = line["kind"]
     if kind == "field_changed":
         return f"{line['field'].replace('_', ' ')} gewijzigd"
+    if kind == "no_meaningful_change":
+        # See describe_record_change()'s docstring - the record's raw data
+        # changed shape but nothing effectively changed, so there's no
+        # code/countries to look up below.
+        return "alleen technische opschoning in brondata, geen inhoudelijke wijziging"
     label = SERVICE_LABELS_NL.get(line["code"], line["code"])
     if kind == "service_added":
         return f"{label} toegevoegd aan dienstverlening"
@@ -982,7 +987,10 @@ def summarize_change_detail(detail: list[dict | str]) -> str:
         if isinstance(item, str):
             strings.append(item)
             continue
-        if item["kind"] == "field_changed":
+        if item["kind"] in ("field_changed", "no_meaningful_change"):
+            # Both render via format_change_line_nl() and neither has a
+            # "code"/"countries" pair to group by, unlike the service-change
+            # kinds handled below.
             strings.append(format_change_line_nl(item))
             continue
         key = (item["kind"], tuple(item.get("countries", [])))
@@ -1033,7 +1041,25 @@ def describe_record_change(old: dict, new: dict) -> list[dict | str]:
     pre-baked "field gewijzigd" string - unlike the scalar case, that word
     itself ("gewijzigd"/"changed") IS language-dependent, so it needs the same
     structured treatment as the service-change kinds above to render correctly
-    on an English-language site visit."""
+    on an English-language site visit.
+
+    The only caller (diff_records()) only reaches this function once it's
+    already established _comparable(old) != _comparable(new) - i.e. the raw
+    records genuinely differ. But that doesn't guarantee this function finds
+    anything worth describing: services are compared here via
+    describe_service_changes()/_index_services_by_code(), which reduces a
+    CASP's services to a code -> merged-countries mapping - so if ESMA/AFM's
+    source data changes *shape* without changing that effective mapping (e.g.
+    deduplicating redundant/stale rows for a service code that duplicated a
+    broader, still-current row - confirmed live for TRIA BRIDGE on 2026-09-07,
+    where 7 stale single-country rows were dropped in favour of the
+    already-present EU-wide rows for the same codes), every per-field/service
+    check above finds nothing changed. Without a fallback, the changelog
+    entry would end up "changed" with an empty/absent "detail" - the site's
+    "Wat is gewijzigd" section (see openDetail() in assets/js/app.js) would
+    then silently not appear at all, which reads as a bug even though nothing
+    of substance changed. So: if nothing else was found, say that instead of
+    saying nothing."""
     lines: list[dict | str] = []
     if old.get("services") != new.get("services"):
         lines.extend(describe_service_changes(old.get("services"), new.get("services")))
@@ -1052,6 +1078,8 @@ def describe_record_change(old: dict, new: dict) -> list[dict | str]:
         else:
             label = key.replace("_", " ")
             lines.append(f"{label}: {_fmt_value(old_val)} → {_fmt_value(new_val)}")
+    if not lines:
+        lines.append({"kind": "no_meaningful_change"})
     return lines
 
 
