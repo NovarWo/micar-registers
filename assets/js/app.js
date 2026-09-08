@@ -1111,6 +1111,13 @@ function describeChangeLine(line) {
   // {kind, field} dict like the service-change kinds below, so it can be
   // rendered in the viewer's own language too.
   if (line.kind === "field_changed") return t("detail.changeDetail.fieldChanged", line.field.replace(/_/g, " "));
+  // The record was flagged "changed" but describe_record_change() in
+  // fetch_esma.py found nothing worth describing (e.g. ESMA/AFM deduplicating
+  // redundant service rows that already resolved to the same effective
+  // code -> countries mapping - see that function's own comment) - without
+  // this, changeLines would be a non-empty array (so the "Wat is gewijzigd"
+  // section still renders) containing only this one line, explaining why.
+  if (line.kind === "no_meaningful_change") return t("detail.changeDetail.noMeaningfulChange");
   const label = (CASP_SERVICE_BY_CODE[line.code] || {}).label || line.code;
   switch (line.kind) {
     case "service_added": return t("detail.changeDetail.serviceAdded", label);

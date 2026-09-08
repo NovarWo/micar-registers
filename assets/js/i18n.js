@@ -116,6 +116,13 @@ const TRANSLATIONS = {
         serviceCountriesAdded: (label, list) => `${label} nu ook aangeboden in: ${list}`,
         serviceCountriesRemoved: (label, list) => `${label} niet langer aangeboden in: ${list}`,
         fieldChanged: (field) => `${field} gewijzigd`,
+        // Shown when a record is flagged "changed" but describe_record_change()
+        // in fetch_esma.py found nothing worth describing - e.g. ESMA/AFM
+        // deduplicating redundant service rows that already resolved to the
+        // same effective code -> countries mapping (see that function's own
+        // comment). Without this, "Wat is er gewijzigd" would be silently
+        // omitted even though the record's badge says "Gewijzigd".
+        noMeaningfulChange: "Alleen technische opschoning in de brondata, geen inhoudelijke wijziging",
       },
       registeredOn: "Geregistreerd op",
       removedOn: "Verwijderd op",
@@ -254,6 +261,7 @@ const TRANSLATIONS = {
         serviceCountriesAdded: (label, list) => `${label} now also offered in: ${list}`,
         serviceCountriesRemoved: (label, list) => `${label} no longer offered in: ${list}`,
         fieldChanged: (field) => `${field} changed`,
+        noMeaningfulChange: "Only a technical clean-up of the source data, no substantive change",
       },
       registeredOn: "Registered on",
       removedOn: "Removed on",
