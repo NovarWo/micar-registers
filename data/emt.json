@@ -1,6 +1,6 @@
 {
   "register": "emt",
-  "generated_at": "2026-09-09T14:49:13+00:00",
+  "generated_at": "2026-09-09T18:02:23+00:00",
   "records": [
     {
       "id": "0673627ac8c1d954",
@@ -81,7 +81,7 @@
           "dti": "HTKFL04WZ | 6TR5F3KKF | X10CDHLZQ | 7BN8BLGZH | VTFCC12GK",
           "dti_ffg": null,
           "comments": "SEKAU",
-          "last_update": "13/05/2026"
+          "last_update": null
         },
         {
           "url": "https://allunity.com/whitepaper",
@@ -90,6 +90,14 @@
           "dti_ffg": null,
           "comments": "CHFAU, V1.2",
           "last_update": "11/06/2026"
+        },
+        {
+          "url": "https://allunity.com/whitepaper",
+          "start_date": "09/06/2026",
+          "dti": "25XRLGD08 | Q9MZ20BGM | S19Z4M49R| 67JKQ4MKT | 3RH5FHFMR | 95139NRZ1",
+          "dti_ffg": null,
+          "comments": "USDAU, V.1.0",
+          "last_update": "04/09/2026"
         }
       ],
       "institution_type": "Electronic money institution",
@@ -769,6 +777,33 @@
         }
       ],
       "institution_type": "Electronic money institution",
+      "exemption_48_4": "No",
+      "exemption_48_5": "No"
+    },
+    {
+      "id": "8d2449fa2ceddf37",
+      "competent_authority": "Banco de Portugal (BdP)",
+      "home_member_state": "PT",
+      "name": "BISON BANK, S.A.",
+      "lei": "549300V4H4USWZUCE073",
+      "head_office_country": "PT",
+      "commercial_name": "BISON BANK, S.A.",
+      "address": "Rua Barata Salgueiro, 33, Piso 0, 1250-042 Lisboa",
+      "website": "https://bisonbank.com/",
+      "authorisation_date": "11/02/2014",
+      "withdrawal_date": null,
+      "status": "active",
+      "whitepapers": [
+        {
+          "url": "https://bisonbank.com/wp-content/uploads/2026/04/Bison-Bank-USB-White-Paper_20260312-1.pdf",
+          "start_date": "12/03/2026",
+          "dti": null,
+          "dti_ffg": null,
+          "comments": null,
+          "last_update": "12/03/2026"
+        }
+      ],
+      "institution_type": "Credit institution",
       "exemption_48_4": "No",
       "exemption_48_5": "No"
     },

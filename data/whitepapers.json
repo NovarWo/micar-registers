@@ -1,6 +1,6 @@
 {
   "register": "whitepapers",
-  "generated_at": "2026-09-09T14:49:13+00:00",
+  "generated_at": "2026-09-09T18:02:23+00:00",
   "records": [
     {
       "id": "dfea4f01709f83f8",
@@ -5575,7 +5575,7 @@
           "offer_countries": [],
           "dti": null,
           "dti_ffg": null,
-          "comments": "Il a été procédé à un niveau de revue conforme à ce que certains de nos homologues nous ont indiqué avoir, et conforme à la réponse que nous a apportée l’ESMA par ailleurs.",
+          "comments": null,
           "last_update": "27/02/2025"
         },
         {
@@ -5605,7 +5605,7 @@
           "offer_countries": [],
           "dti": null,
           "dti_ffg": null,
-          "comments": "The notification that we have received obviously and evidently does not comply with the requirements of the MiCA regulation (missing significant elements and/or a white paper which obviously and evidently does not comply in terms of form and/or content",
+          "comments": null,
           "last_update": "27/02/2025"
         },
         {
@@ -5781,10 +5781,10 @@
       ]
     },
     {
-      "id": "b5dc532687c92ad0",
+      "id": "a6d2aca26d49c2e7",
       "competent_authority": "Autorité des Marchés Financiers (AMF)",
       "home_member_state": "FR",
-      "name": "Not applicable: Issuer of ANITA is not identified; Moonlabs, as applicant, is notifying admission to trading on its behalf pursuant to Article 4 of MiCA",
+      "name": "Not applicable: Issuer of ANITA is not identified; \nMoonlabs, as applicant, is notifying admission to \ntrading on its behalf pursuant to Article 4 of MiCA",
       "lei": null,
       "head_office_country": null,
       "whitepapers": [
@@ -6230,6 +6230,57 @@
           "dti_ffg": "4KWQVDQ6P",
           "comments": null,
           "last_update": "10/07/2026"
+        }
+      ]
+    },
+    {
+      "id": "74787e35158c0910",
+      "competent_authority": "Autorité des Marchés Financiers (AMF)",
+      "home_member_state": "FR",
+      "name": "Th QAIT Association",
+      "lei": "5067001DQEI95H25MM62",
+      "head_office_country": "SWITZERLAND - CH",
+      "whitepapers": [
+        {
+          "url": "https://www.qait.ch",
+          "casp_name": "N/A",
+          "casp_lei": "N/A",
+          "offer_countries": [
+            "AT",
+            "BE",
+            "BG",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GR",
+            "HR",
+            "HU",
+            "IE",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MT",
+            "NL",
+            "NO",
+            "PL",
+            "PT",
+            "RO",
+            "SE",
+            "SI",
+            "SK"
+          ],
+          "dti": "8604J90R6",
+          "dti_ffg": "N9RQ7Z8F5",
+          "comments": "Notification complète reçue postérieurement à l'admission / Complete notification received after admission",
+          "last_update": "08/09/2026"
         }
       ]
     },
@@ -13110,6 +13161,106 @@
           "dti_ffg": "7NKPWLLM0",
           "comments": null,
           "last_update": "28/08/2026"
+        }
+      ]
+    },
+    {
+      "id": "7e8501af0849148f",
+      "competent_authority": "Central Bank of Ireland (CBI)",
+      "home_member_state": "IE",
+      "name": "Bluwhale Foundation",
+      "lei": null,
+      "head_office_country": "KY",
+      "whitepapers": [
+        {
+          "url": "https://profile.bluwhale.com/mica",
+          "casp_name": "Payward Global Solutions LTD (Kraken)",
+          "casp_lei": "9845003D98SCC2851458",
+          "offer_countries": [],
+          "dti": "5D2RBZM0X; 6RX2W97GQ; B69HMNT3J; HZ1JDFXFZ; KFZBCG8X8; RXXTGPCKM",
+          "dti_ffg": "CSVDS945S",
+          "comments": null,
+          "last_update": "04/09/2026"
+        }
+      ]
+    },
+    {
+      "id": "923ff991d67b23aa",
+      "competent_authority": "Central Bank of Ireland (CBI)",
+      "home_member_state": "IE",
+      "name": "Solana Mobile Inc.",
+      "lei": "254900FMOYDRQVFB4B86",
+      "head_office_country": null,
+      "whitepapers": [
+        {
+          "url": "https://solanamobile.com/mica-whitepaper",
+          "casp_name": null,
+          "casp_lei": null,
+          "offer_countries": [],
+          "dti": "3B29MH8TM",
+          "dti_ffg": "D4X6WQD28",
+          "comments": "Art.12 Mod",
+          "last_update": "04/09/2026"
+        }
+      ]
+    },
+    {
+      "id": "81bf81d5c54b77cb",
+      "competent_authority": "Central Bank of Ireland (CBI)",
+      "home_member_state": "IE",
+      "name": "Gradient Global Limited",
+      "lei": "98450001CDAD0E4A3I23",
+      "head_office_country": "VG",
+      "whitepapers": [
+        {
+          "url": "https://docs.ts.finance/resources/tmx-token-white-paper-mica-title-ii",
+          "casp_name": "Payward Global Solutions Limited",
+          "casp_lei": "9845003D98SCC2851458",
+          "offer_countries": [],
+          "dti": "RVGZTQS18",
+          "dti_ffg": "91T5S2CS6",
+          "comments": null,
+          "last_update": "04/09/2026"
+        }
+      ]
+    },
+    {
+      "id": "528d24a81f022314",
+      "competent_authority": "Central Bank of Ireland (CBI)",
+      "home_member_state": "IE",
+      "name": "NeuraAI Ltd.",
+      "lei": "836800S1PCNLTDR5QL29",
+      "head_office_country": "SC",
+      "whitepapers": [
+        {
+          "url": "neura.micarwhitepapers.eu",
+          "casp_name": "Payward Global Solutions LTD",
+          "casp_lei": "9845003D98SCC2851458",
+          "offer_countries": [],
+          "dti": "MMZM5L6GW",
+          "dti_ffg": "S74BL5CRJ",
+          "comments": null,
+          "last_update": "04/09/2026"
+        }
+      ]
+    },
+    {
+      "id": "4d5bf6dca7340640",
+      "competent_authority": "Central Bank of Ireland (CBI)",
+      "home_member_state": "IE",
+      "name": "VINU LTD",
+      "lei": "3912000ON92SB9FLQ885",
+      "head_office_country": "BS",
+      "whitepapers": [
+        {
+          "url": "https://nyks.tech/mica/nyks-mica-white-paper-en.xhtml",
+          "casp_name": "Payward Global Solutions LTD (Kraken)",
+          "casp_lei": "9845003D98SCC2851458",
+          "offer_countries": [],
+          "dti": "RDG8FJF8Z",
+          "dti_ffg": "CX9S880QW",
+          "comments": null,
+          "last_update": "04/09/2026"
         }
       ]
     },
@@ -21126,7 +21277,7 @@
       "head_office_country": "KY",
       "whitepapers": [
         {
-          "url": "https://ethos.micarwhitepapers.eu/",
+          "url": "https://ethos.micarwhitepapers.eu",
           "casp_name": null,
           "casp_lei": null,
           "offer_countries": [
@@ -21622,6 +21773,57 @@
       ]
     },
     {
+      "id": "d212938b18f2d90c",
+      "competent_authority": "Netherlands Authority for the Financial Markets (AFM)",
+      "home_member_state": "NL",
+      "name": "Cetus Technology Limited",
+      "lei": null,
+      "head_office_country": null,
+      "whitepapers": [
+        {
+          "url": "https://cetus.micarwhitepapers.eu",
+          "casp_name": null,
+          "casp_lei": null,
+          "offer_countries": [
+            "AT",
+            "BE",
+            "BG",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GR",
+            "HR",
+            "HU",
+            "IE",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MT",
+            "NL",
+            "NO",
+            "PL",
+            "PT",
+            "RO",
+            "SE",
+            "SI",
+            "SK"
+          ],
+          "dti": "GFC645T9B",
+          "dti_ffg": "WMW834RP9",
+          "comments": "wp update",
+          "last_update": "01/09/2026"
+        }
+      ]
+    },
+    {
       "id": "e13a1c4088320411",
       "competent_authority": "Norwegian Financial Supervisory Authority (Finanstilsynet)",
       "home_member_state": "NO",
@@ -21774,8 +21976,8 @@
             "SI",
             "SK"
           ],
-          "dti": null,
-          "dti_ffg": null,
+          "dti": "T8HQ6F95R",
+          "dti_ffg": "M8VRWT0GF",
           "comments": null,
           "last_update": "07/07/2026"
         }

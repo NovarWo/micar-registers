@@ -18340,5 +18340,706 @@
       "authorisation date: onbekend → 24/08/2026"
     ],
     "timestamp": "2026-09-07T21:47:50+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "whitepapers",
+    "id": "945a792095f85cb8",
+    "name": "Obol Association",
+    "detail": [
+      {
+        "kind": "field_changed",
+        "field": "whitepapers"
+      }
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "whitepapers",
+    "id": "1aa6cb2038d6512e",
+    "name": "NAEST",
+    "detail": [
+      {
+        "kind": "field_changed",
+        "field": "whitepapers"
+      }
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "whitepapers",
+    "id": "a6d2aca26d49c2e7",
+    "name": "Not applicable: Issuer of ANITA is not identified; \nMoonlabs, as applicant, is notifying admission to \ntrading on its behalf pursuant to Article 4 of MiCA",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "whitepapers",
+    "id": "74787e35158c0910",
+    "name": "Th QAIT Association",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "whitepapers",
+    "id": "7e8501af0849148f",
+    "name": "Bluwhale Foundation",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "whitepapers",
+    "id": "923ff991d67b23aa",
+    "name": "Solana Mobile Inc.",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "whitepapers",
+    "id": "81bf81d5c54b77cb",
+    "name": "Gradient Global Limited",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "whitepapers",
+    "id": "528d24a81f022314",
+    "name": "NeuraAI Ltd.",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "whitepapers",
+    "id": "4d5bf6dca7340640",
+    "name": "VINU LTD",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "whitepapers",
+    "id": "0e356fe53262e0ea",
+    "name": "Ethos Foundation",
+    "detail": [
+      {
+        "kind": "field_changed",
+        "field": "whitepapers"
+      }
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "whitepapers",
+    "id": "d212938b18f2d90c",
+    "name": "Cetus Technology Limited",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "whitepapers",
+    "id": "5be2d38162c27bef",
+    "name": "Real Technologies Inc.",
+    "detail": [
+      {
+        "kind": "field_changed",
+        "field": "whitepapers"
+      }
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "removed",
+    "register": "whitepapers",
+    "id": "b5dc532687c92ad0",
+    "name": "Not applicable: Issuer of ANITA is not identified; Moonlabs, as applicant, is notifying admission to trading on its behalf pursuant to Article 4 of MiCA",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "emt",
+    "id": "f95d165e6ed77ad1",
+    "name": "AllUnity GmbH",
+    "detail": [
+      {
+        "kind": "field_changed",
+        "field": "whitepapers"
+      }
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "emt",
+    "id": "8d2449fa2ceddf37",
+    "name": "BISON BANK, S.A.",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "c9e2abf919577a3a",
+    "name": "Invity Finance s.r.o.",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "ES",
+          "NL",
+          "PL"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "ES",
+          "NL",
+          "PL"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "ES",
+          "NL",
+          "PL"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "e",
+        "countries": [
+          "ES",
+          "NL",
+          "PL"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "g",
+        "countries": [
+          "ES",
+          "NL",
+          "PL"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "ES",
+          "NL",
+          "PL"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "2aacf6bfdd82f99d",
+    "name": "Pluso a.s.",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "a",
+        "countries": [
+          "CZ"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "c",
+        "countries": [
+          "CZ"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "d",
+        "countries": [
+          "CZ"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "j",
+        "countries": [
+          "CZ"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "f236192734880afa",
+    "name": "COINMATE a.s.",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "a",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "a",
+        "countries": [
+          "CZ"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "b",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "b",
+        "countries": [
+          "CZ"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "c",
+        "countries": [
+          "CZ"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "d",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "d",
+        "countries": [
+          "CZ"
+        ]
+      },
+      {
+        "kind": "service_countries_added",
+        "code": "j",
+        "countries": [
+          "AT",
+          "BE",
+          "BG",
+          "CY",
+          "DE",
+          "DK",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "HR",
+          "HU",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MT",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "SE",
+          "SI",
+          "SK"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "j",
+        "countries": [
+          "CZ"
+        ]
+      }
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "32edb50eca65c4f2",
+    "name": "Volksbank Raiffeisenbank Dachau eG",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "c98a7c040863eaa9",
+    "name": "Volksbank Sauerland eG",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "8153fae61a81ed0c",
+    "name": "Volksbank Zollernalb eG",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "cb524795d0aa67e2",
+    "name": "VR Bank München Land eG",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "e64c52fac7094a06",
+    "name": "Volksbank Baumberge eG",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "9ccc8466451ad828",
+    "name": "Banco Bilbao Vizcaya Argentaria S.A.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "f104ed08faf685f0",
+    "name": "OPEN BANK S.A.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "17d9f392f94ffbd7",
+    "name": "CECABANK S.A.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "5c5296b2eeaef6bd",
+    "name": "Bitcoinforme S.L.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "45ddeb405fcaa527",
+    "name": "RENTA 4 BANCO S.A.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "5e72209eda062562",
+    "name": "KUTXABANK S.A.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)",
+      "address: Gran Vía 30. 48009 Bilbao. → Gran Via 30. 48009 Bilbao."
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "0eabad7dc4e15ae2",
+    "name": "CAIXABANK S.A.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "900dcd78eb386559",
+    "name": "DUE NETWORK S.L.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)",
+      "address: Paseo de la Castellana 257 Torre Sur 1.  28029  Madrid → Paseo de la Castellana 257 Torre Sur 1.  28046  Madrid"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "f968377223fe1835",
+    "name": "CROSSMINT EUROPE S.L.",
+    "detail": [
+      {
+        "kind": "service_countries_removed",
+        "code": "a",
+        "countries": [
+          "LI"
+        ]
+      },
+      {
+        "kind": "service_countries_removed",
+        "code": "j",
+        "countries": [
+          "LI"
+        ]
+      },
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)",
+      "address: Calle Villalar 7. Bajo Izda Madrid → Calle Villalar 7. Bajo Izda 28001 Madrid"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "12a4d23fda6353e8",
+    "name": "CRIPTAN TRADE S.L.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "2664abde3c6d634c",
+    "name": "MINOS GLOBAL S.L.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)",
+      "website: ttps://minos.global → https://minos.global"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "added",
+    "register": "casps",
+    "id": "7b98e4fa6b5a267c",
+    "name": "PROSEGUR CUSTODIA DE ACTIVOS DIGITALES S.L.U.",
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "941678637c5bde22",
+    "name": "IQANA TECHNOLOGIES S.L.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "8c4d938f24ad43d7",
+    "name": "BASQUE PAY S.L.",
+    "detail": [
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)",
+      "commercial name: BASQUE PAY S.L. → FAZIL CRYPTO",
+      "address: Calle Villa de Plentzia 42-5 C. Getxeo Bizcaia. → Calle Villa de Plentzia 42-5 C. 48930 Gexto Vizcaya."
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "changed",
+    "register": "casps",
+    "id": "e3cf4c4141a5d0b5",
+    "name": "FINTECH PAYMENTS PSC S.L.",
+    "detail": [
+      {
+        "kind": "service_countries_added",
+        "code": "c",
+        "countries": [
+          "BG"
+        ]
+      },
+      "competent authority: Comisión Nacional del Mercado de Valores (CNMV) → Comision Nacional del Mercado de Valores (CNMV)",
+      "commercial name: FINTECH PAYMENTS PSC S.L. → CRYPTOPOCKET",
+      "address: Calle San Juan de Ortega núm. 10 esc 1 puerta B local Correoslabs. 28050 Madrid → Calle San Juan de Ortega num. 10 esc 1 puerta B local Correoslabs. 28050 Madrid"
+    ],
+    "timestamp": "2026-09-09T18:02:23+00:00"
+  },
+  {
+    "type": "removed",
+    "register": "casps",
+    "id": "6e67fdd206360724",
+    "name": "PROSEGUR CUSTODIA DE ACTIVOS DIGITALES",
+    "registered_on": "30/06/2026",
+    "timestamp": "2026-09-09T18:02:23+00:00"
   }
 ]
