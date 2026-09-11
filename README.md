@@ -66,16 +66,19 @@ niet.
 
 ## Automatisering
 
-`.github/workflows/scrape.yml` draait de scraper elk uur (cron `50 * * * *`, dus steeds rond
-xx:50 — bewust niet op het hele uur, omdat GitHub's schedule-queue precies op :00 het drukst
-is en runs dan vaker vertraagd/overgeslagen worden) en via handmatige trigger
-(`workflow_dispatch`, te vinden onder de "Actions"-tab van de repo). Bij een wijziging
-committeert en pusht de workflow `/data` automatisch — zonder wijziging gebeurt er niets
-(behalve dat `meta.json`'s `last_checked` bijwerkt, ook gecommit).
+`.github/workflows/scrape.yml` draait de scraper eenmaal per dag om 08:00 Nederlandse tijd, en
+via handmatige trigger (`workflow_dispatch`, te vinden onder de "Actions"-tab van de repo). Bij
+een wijziging committeert en pusht de workflow `/data` automatisch — zonder wijziging gebeurt er
+niets (behalve dat `meta.json`'s `last_checked` bijwerkt, ook gecommit).
+
+GitHub Actions cron kent alleen UTC, geen tijdzones/zomertijd — daarom staan er in `scrape.yml`
+twee cron-regels (`0 7 * 11,12,1,2,3 *` voor de wintermaanden = 08:00 CET, en
+`0 6 * 4,5,6,7,8,9,10 *` voor de zomermaanden = 08:00 CEST) in plaats van één. Rond de exacte
+overgangsdatum (laatste zondag van maart/oktober) loopt dit een paar dagen 1 uur uit de pas —
+een geaccepteerde beperking, want cron kan geen "lokale kloktijd" uitdrukken.
 
 **Let op:** ESMA ververst het interim-register zelf maar wekelijks (het AFM-register wisselt
-vaker). Elk uur checken is dus veel vaker dan de ESMA-bron zelf verandert — dat is bewust, om
-een update zo snel mogelijk op te pikken zodra hij verschijnt, zonder te wachten op de
+vaker). Dagelijks checken pikt een update dus ruim op tijd op zonder te wachten op de
 eerstvolgende geplande check.
 
 ## Slack-meldingen
