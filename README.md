@@ -1,3 +1,5 @@
+# Dit project is verhuisd naar https://woltersom.github.io/micar-registers
+
 # MiCAR Register Tracker
 
 Doorzoekbare spiegel van de 5 officiële MiCAR-registers (whitepapers, ART-uitgevers,
